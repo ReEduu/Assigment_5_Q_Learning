@@ -1,2 +1,5 @@
-# Assigment_5_Q_Learning
-This repository includes the code as well as the instructions for executing reinforcement learning in the Flappy Bird game.
+# Assigment 5 Q-Learning
+For the realization of this activity, we rely on the code of Tony Xu, whose github is below: 
+https://github.com/kyokin78/rl-flappybird
+
+
